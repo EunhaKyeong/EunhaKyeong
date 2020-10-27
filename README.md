@@ -8,7 +8,8 @@ I'm currently lerning Web __Back-end__!🤪
 ⚡ BOAZ 13th visualization member(University Bigdata association club). cf.BOAZ Repository  
 ⚡ Hanium ICT mentoring-provono. cf.YAKPAGO Repository  
 
-![Eunha's github stats](https://github-readme-stats.vercel.app/api ? username = EunhaKyeong & show_icons = true & theme = synthwave )
+
+[Eunha's github stats](https://github-readme-stats.vercel.app/api ? username = EunhaKyeong & show_icons = true & theme = synthwave )
 <!--
 **EunhaKyeong/EunhaKyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
