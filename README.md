@@ -1,4 +1,4 @@
-![Eunha's github stats] (https://github-readme-stats.vercel.app/api?username=EunhaKyeong&show_icons= true)
+[Eunha's github stats] (https://github-readme-stats.vercel.app/api?username=EunhaKyeong&show_icons= true)
 
 I'm currently lerning Web __Back-end__!🤪 
 ------------------------------------------  
