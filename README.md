@@ -1,13 +1,13 @@
 I'm currently lerning __Web Back-end__!🤪 
 ------------------------------------------  
-🌱 Recently I'm interested in __Flask__ and __Java Spring__.  
-🌱 I'm participating in the __Hanium Provono project__, and I am working on __a project to create a machine learning-based web service using Flask__.  
+🌱 Recently I'm interested in __Flask/Django__ and __Java Spring__.  
+🌱 I'm making blog website named __Blogity__ to study __Django__.  
 
 💻 My Career  
 ------------------  
 ⚡ **BOAZ 13th visualization member**(University Bigdata association club) [BOAZ Repo](https://github.com/EunhaKyeong/BOAZ)  
 ⚡ **Hanium ICT mentoring-provono** [YAKPAGO Repo](https://github.com/EunhaKyeong/Yakpago)  
-
+⚡ **Blogity** [Blogity Repo](https://github.com/EunhaKyeong/Blogity)  
 
 ![Eunha's github stats](https://github-readme-stats.vercel.app/api?username=EunhaKyeong&show_icons=true&theme=gruvbox)
 
