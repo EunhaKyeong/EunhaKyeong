@@ -13,12 +13,9 @@ Eunha's Profile🤪
 
 💻 Projects 
 ------------------  
-⚡ **WeViz (2020.02.01 ~ 2020.08.01)**  
-    데이터를 통해 매달의 이슈를 Tableau로 시각화하는 프로젝트입니다. [Repo](https://github.com/EunhaKyeong/BOAZ)  
-⚡ **Yakpago (2020.04.01 ~ 2020.11.30)**  
-    정보소외계층을 위한 의약품을 추천해주는 서비스입니다. [Repo](https://github.com/EunhaKyeong/Yakpago)  
-⚡ **ShoppingMall (2020.12.01~)**  
-    JAVA Spring 프레임워크를 이용해 쇼핑몰을 만드는 프로젝트입니다. [Repo](https://github.com/EunhaKyeong/ShoppingMall)  
+⚡ **WeViz (2020.02.01 ~ 2020.08.01)** - 데이터를 통해 매달의 이슈를 Tableau로 시각화하는 프로젝트입니다. [Repo](https://github.com/EunhaKyeong/BOAZ)  
+⚡ **Yakpago (2020.04.01 ~ 2020.11.30)** - 정보소외계층을 위한 의약품을 추천해주는 서비스입니다. [Repo](https://github.com/EunhaKyeong/Yakpago)  
+⚡ **ShoppingMall (2020.12.01~)** - JAVA Spring 프레임워크를 이용해 쇼핑몰을 만드는 프로젝트입니다. [Repo](https://github.com/EunhaKyeong/ShoppingMall)  
 <br><br>
 
 ![Eunha's github stats](https://github-readme-stats.vercel.app/api?username=EunhaKyeong&show_icons=true&theme=gruvbox)
