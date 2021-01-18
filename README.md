@@ -13,6 +13,8 @@ Eunha's Profile🤪
 
 💻 Projects 
 ------------------  
+⚡ 2019.07.04 ~ 2020.08.01
+
 <br><br>
 
 ![Eunha's github stats](https://github-readme-stats.vercel.app/api?username=EunhaKyeong&show_icons=true&theme=gruvbox)
