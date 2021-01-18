@@ -1,13 +1,12 @@
-I'm currently lerning __Web Back-end__!🤪 
+Eunha's Profile🤪   
 ------------------------------------------  
-🌱 Recently I'm interested in __Flask/Django__ and __Java Spring__.  
-🌱 I'm making blog website named __Blogity__ to study __Django__.  
+🌱 저는 __백엔드 개발자__를 희망합니다!    
+🌱 현재 Spring 웹 프레임워크를 이용하여 쇼핑몰을 만드는 프로젝트를 진행 중입니다.    
 
 💻 My Career  
 ------------------  
-⚡ **BOAZ 13th visualization member**(University Bigdata association club) [BOAZ Repo](https://github.com/EunhaKyeong/BOAZ)  
-⚡ **Hanium ICT mentoring-provono** [YAKPAGO Repo](https://github.com/EunhaKyeong/Yakpago)  
-⚡ **Blogity** [Blogity Repo](https://github.com/EunhaKyeong/Blogity)  
+⚡ 2019.07.04 ~ 2020.08.01 - 빅데이터 대학생 연합동아리 **BOAZ 시각화 13기** [BOAZ Repo](https://github.com/EunhaKyeong/BOAZ)  
+⚡ 2020.04.01 ~ 2020.11.30 - **한이음ICT 멘토링(프로보노)** [YAKPAGO Repo](https://github.com/EunhaKyeong/Yakpago)  
 
 ![Eunha's github stats](https://github-readme-stats.vercel.app/api?username=EunhaKyeong&show_icons=true&theme=gruvbox)
 
