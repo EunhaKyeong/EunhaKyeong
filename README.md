@@ -3,6 +3,7 @@ Eunha's Profile🤪
 🌱 저는 **백엔드 개발자**를 희망합니다!    
 🌱 현재 Spring 웹 프레임워크를 이용하여 쇼핑몰을 만드는 프로젝트를 진행 중입니다.  
 🌱 가천대학교 컴퓨터공학과에 재학 중입니다.  
+🌱 [My Velog](https://velog.io/@galaxy)  
 <br><br>
 
 💻 My Career  
