@@ -1,29 +1,27 @@
-Eunha's Profile🤪   
-------------------------------------------  
-🌱 저는 **백엔드 개발자**를 희망합니다!    
-🌱 현재 Spring 웹 프레임워크를 이용하여 쇼핑몰을 만드는 프로젝트를 진행 중입니다.  
-🌱 가천대학교 컴퓨터공학과에 재학 중입니다.  
-🌱 [My Velog](https://velog.io/@galaxy)  
-<br><br>
+## Eunha's Profile🤪     
+#### 🌱 저는 **웹 백엔드** 분야에 관심이 많습니다.  
+#### 🌱 현재 Spring 웹 프레임워크를 이용하여 쇼핑몰을 만드는 프로젝트를 진행 중입니다.  
+#### 🌱 가천대학교 컴퓨터공학과에 재학 중입니다.  
+#### 🌱 [My Velog](https://velog.io/@galaxy)
+<hr>
 
-💻 My Career  
-------------------  
+## 💻 My Career  
 ⚡ 2019.07.04 ~ 2020.08.01 - **빅데이터 대학생 연합동아리 BOAZ 시각화 13기**  
-⚡ 2020.04.01 ~ 2020.11.30 - **한이음ICT 멘토링(프로보노)**  
-<br><br>  
+⚡ 2020.04.01 ~ 2020.11.30 - **한이음ICT 멘토링(프로보노)**
+<hr>
 
-💻 Projects 
-------------------  
-⚡ **WeViz (2020.02.01 ~ 2020.08.01)** - 데이터를 통해 매달의 이슈를 Tableau로 시각화하는 프로젝트입니다. [Repo](https://github.com/EunhaKyeong/BOAZ)  
-⚡ **Yakpago (2020.04.01 ~ 2020.11.30)** - 정보소외계층을 위한 의약품을 추천해주는 서비스입니다. [Repo](https://github.com/EunhaKyeong/Yakpago)  
-⚡ **ShoppingMall (2020.12.01~)** - JAVA Spring 프레임워크를 이용해 쇼핑몰을 만드는 프로젝트입니다. [Repo](https://github.com/EunhaKyeong/ShoppingMall)  
-<br><br>
+## 💻 Projects  
+|프로젝트|기간|프로젝트 설명|  
+|:---:|:---:|:---:|  
+|[WeViz](https://github.com/EunhaKyeong/BOAZ)|2020.02.01 ~ 2020.08.01|데이터를 통해 매달의 이슈를 Tableau로 시각화하는 프로젝트입니다.|  
+|[Yakpago](https://github.com/EunhaKyeong/Yakpago)|2020.04.01 ~ 2020.11.30|일반의약품 오남용으로 인한 부작용을 예방하기 위해 ML 기반 약품을 추천해주는 웹서비스입니다.|  
+|[ShoppingMall](https://github.com/EunhaKyeong/ShoppingMall)|2020.12.01~|JAVA Spring 프레임워크를 이용해 쇼핑몰 웹사이트를 만드는 프로젝트입니다.|
+<hr>
+
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img alt="Spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/> <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>  
 
 ![Eunha's github stats](https://github-readme-stats.vercel.app/api?username=EunhaKyeong&show_icons=true&theme=gruvbox)
-
 <!--
-**EunhaKyeong/EunhaKyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
