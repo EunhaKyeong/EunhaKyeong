@@ -17,7 +17,7 @@
 |[WeViz](https://github.com/EunhaKyeong/BOAZ)|2020.02.01 ~ 2020.08.01|데이터를 통해 매달의 이슈를 Tableau로 시각화하는 프로젝트입니다.|  
 |[Yakpago](https://github.com/EunhaKyeong/Yakpago)|2020.04.01 ~ 2020.11.30|일반의약품 오남용으로 인한 부작용을 예방하기 위해 ML 기반 약품을 추천해주는 웹서비스입니다.|  
 |[ShoppingMall](https://github.com/EunhaKyeong/ShoppingMall)|2020.12.01 ~ 2021.03.06|JAVA Spring 프레임워크를 이용해 쇼핑몰 웹사이트를 만드는 프로젝트입니다.|  
-|[MyWorkBook(Android)](https://github.com/EunhaKyeong/MyWorkBook-App)|2021.04.13~2021.06.21|Java Android Studio를 활용해 문제의 순서를 바꿔 자동으로 시험을 출제하는 모바일 어플리케이션입니다.|  
+|[MyWorkBook(Android)](https://github.com/EunhaKyeong/MyWorkBook-App)|2021.04.13 ~ 2021.06.21|Java Android Studio를 활용해 문제의 순서를 바꿔 자동으로 시험을 출제하는 모바일 어플리케이션입니다.|  
 |[Netflix Community](https://github.com/EunhaKyeong/NETFLIX-COMMUNITY)|2021.05.18 ~ 2021.06.14|넷플릭스 유저들을 위한 넷플릭스 커뮤니티 웹페이지 입니다.|  
 |[WithMountain](https://github.com/18Again)|2021.09.01 ~ 2021.11.09|사용자의 취향과 운동능력을 바탕으로 함께 등산할 사람을 매칭해주는 맞춤형 등산메이트 매칭 모바일 어플리케이션 입니다.|    
 |[Badminton Reservation](https://github.com/EunhaKyeong/Badminton_Reservation)|2021.11.10 ~ 2021.11.19|인천 지역의 배드민턴장 위치를 알려주고, 예약을 할 수 있는 웹페이지 입니다.|  
