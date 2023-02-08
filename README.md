@@ -28,8 +28,13 @@
 <br>
   
 [발자국](https://glow-tax-bc9.notion.site/0355ee2da33b4152a512046c19bb4d3b)  
-- 산책 기록 어플 발자국 `Android` 개발 <sub><sup>(2022.01 ~ )</sup></sub>  
+- 산책 기록 어플 발자국 `Android` 개발 <sub><sup>(2022.01 ~ 2022.07)</sup></sub>  
 - <a href="https://github.com/UMC-1-Footprint/Footprint-Android"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"></a> <a href="https://play.google.com/store/apps/details?id=com.footprint.footprint"><img src="https://img.shields.io/badge/Google Play-414141?style=flat&logo=Google Play&logoColor=white"></a>
+<br>
+
+[5gaam](https://litt.ly/5gaam?fbclid=PAAabVrcg1uBnK_fJcuwVPT5gC1eb6zQ4N4x3OYGnrjM5Ub3RWqjy815fyS7M)  
+- 오감을 활용한 취향 기록 어플 5gaam `Android` 개발 <sub><sup>(2022.07 ~ )</sup></sub>  
+- <a href="https://github.com/FiveSensesApp/FiveSenses-Android"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"></a> <a href="https://play.google.com/store/apps/details?id=com.mangpo.taste&hl=en-KR"><img src="https://img.shields.io/badge/Google Play-414141?style=flat&logo=Google Play&logoColor=white"></a>
 <br>
 
 ![Eunha's github stats](https://github-readme-stats.vercel.app/api?username=EunhaKyeong&show_icons=true&theme=gruvbox)
