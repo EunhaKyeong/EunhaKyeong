@@ -4,7 +4,7 @@
 <b><p>가천대학교 컴퓨터공학과</p></b>
 <a href="kyeongeh424@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
 <a href="https://velog.io/@galaxy"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a>
-<a href="https://www.notion.so/972d4e1e53434a27bcd84067c5101fc6"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
+<a href="https://nebula-ferry-f85.notion.site/b42b7d6b04184167880d984feb17f5df"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
 <br>
 
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white">  
