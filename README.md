@@ -2,6 +2,8 @@
 
 <b><p>Android Developer</p></b>
 <b><p>가천대학교 컴퓨터공학과</p></b>
+<b><p><a href="https://www.mcnc.co.kr/html/HOM0100.html">모빌씨앤씨(2022.08 ~ 2023.06)</a></p></b>
+<b><p><a href="https://autocrypt.co.kr/?gclid=Cj0KCQjw1OmoBhDXARIsAAAYGSEtHQl2H5CghxcqgUhNcRQNSozi2zHylddX5soAPruo-V9EYWdlHycaAkeAEALw_wcB">아우토크립트(2023.06 ~ )</a></p></b>
 <a href="kyeongeh424@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"></a>
 <a href="https://velog.io/@galaxy"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a>
 <a href="https://nebula-ferry-f85.notion.site/6a031131541f434f915849bb19842ba3"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
@@ -33,7 +35,7 @@
 <br>
 
 [5gaam](https://litt.ly/5gaam?fbclid=PAAabVrcg1uBnK_fJcuwVPT5gC1eb6zQ4N4x3OYGnrjM5Ub3RWqjy815fyS7M)  
-- 오감을 활용한 취향 기록 어플 5gaam `Android` 개발 <sub><sup>(2022.07 ~ )</sup></sub>  
+- 오감을 활용한 취향 기록 어플 5gaam `Android` 개발 <sub><sup>(2022.07 ~ 2023.03)</sup></sub>  
 - <a href="https://github.com/FiveSensesApp/FiveSenses-Android"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"></a> <a href="https://play.google.com/store/apps/details?id=com.mangpo.taste&hl=en-KR"><img src="https://img.shields.io/badge/Google Play-414141?style=flat&logo=Google Play&logoColor=white"></a>
 <br>
 
